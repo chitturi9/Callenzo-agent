@@ -2,8 +2,8 @@
 
 No LLM vote. Kill criteria fire first.
 
-| Step | Owner | Job |
-| --- | --- | --- |
-| Kill criteria fire, traffic cut, safe mode | **Marcus** (SRE) | Instant switch. 100% to 0% if needed. He owns the button and the graphs. |
-| Policy / safety / spoken injection / recording leak | **Elena** (Security) | Classify the violation. Lock the tool. Say what stays off. |
-| Shop on the phone + report to Sam | **Elon** in the field, **Nova** to Sam | Elon stays with the customer. Nova writes the one-page to Sam. |
+1. Marcus (SRE) — detect, kill, cut traffic, safe mode.
+2. Elena (Security) — policy, spoken injection, recording leak. Says what stays off.
+3. Elon stays with the shop. Nova writes the one-pager to Sam. Only Sam widens authority.
+
+Fix path: Mike patches, Priya tests, Marcus ramps, Elon watches first live calls.
