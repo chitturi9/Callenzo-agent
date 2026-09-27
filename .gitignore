@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+outputs/*.mp3
+.DS_Store
